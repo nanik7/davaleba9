@@ -72,3 +72,27 @@ h3{
     color: #707070;
     font-size: 24px;
 }
+footer{
+    background-color: #2e2e2e;
+    padding-top: 50px;
+    padding-bottom: 110px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.contact1{
+    width: 123px;
+    height: 36px;
+    color: #ffffff;
+}
+.contact2{
+    width: 238px;
+    height: 37px;
+    color: #ffffff;
+}
+.icons{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+}
