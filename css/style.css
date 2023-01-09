@@ -1,0 +1,43 @@
+.container{
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+}
+header{
+    padding: 50px 140px 110px 110px;
+    display: flex;
+    /* border: 5px solid red; */
+
+}
+.logo{
+    margin-right: 400px;
+}
+nav{
+    display: flex;
+    justify-content: flex-start;
+    gap: 55px;
+    margin-right: 200px;
+    
+}
+li{
+    list-style: none;
+    font-size: 20px;
+    color: #707070;
+}
+ .search{
+    color: rgba(0,0,0,0);
+ }
+ /* შევქმენი სექცია */
+section{
+    width: 90%;
+    height: 613px;
+    margin-left: 110px;
+    background-image: url("../photos/სლაიდერი3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    font-size: 40px;
+    color: #707070;
+    margin-top: 150px;
+}
